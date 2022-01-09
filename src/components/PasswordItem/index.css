@@ -1,0 +1,108 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+.white {
+  background-color: #ffffff;
+}
+.blue {
+  background-color: #0b69ff;
+}
+.cyan {
+  background-color: #0ea5e9;
+}
+
+.password-item {
+  list-style-type: none;
+  border: 1px solid #b6c3ca;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  width: 250px;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.initial-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 22px;
+  margin-right: 10px;
+}
+
+.initial {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0;
+}
+
+.website {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.username {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.password {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.stars {
+  height: 10px;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: auto;
+}
+
+.button {
+  background-color: transparent;
+  color: #7e858e;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.delete {
+  height: 20px;
+  width: 20px;
+}
